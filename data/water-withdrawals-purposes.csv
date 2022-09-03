@@ -1,0 +1,26 @@
+Country Name,Country Code,Series Name,Series Code,2017 [YR2017],2018 [YR2018]
+World,WLD,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,71.2802422009681,..
+World,WLD,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,11.9204793729642,..
+World,WLD,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,16.8013475283742,..
+World,WLD,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,9.07555220551003,..
+World,WLD,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,5720.99735252485,5658.06001439018
+Middle income,MIC,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,79.1921697524273,..
+Middle income,MIC,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,10.7120791664121,..
+Middle income,MIC,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,10.0957510816051,..
+Middle income,MIC,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,9.78617124858834,..
+Middle income,MIC,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,5182.2591992376,5126.29677008839
+Low income,LIC,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,90.3919885277913,..
+Low income,LIC,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,6.88484270246137,..
+Low income,LIC,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,2.72316877073628,..
+Low income,LIC,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,4.50943319805625,..
+Low income,LIC,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,4154.4858805509,4047.62724342435
+High income,HIC,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,43.3215042412212,..
+High income,HIC,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,16.1896813276269,..
+High income,HIC,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,40.5002920762261,..
+High income,HIC,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,8.71585766065907,..
+High income,HIC,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,8565.49924140859,8525.4156109531
+,,,,,
+,,,,,
+,,,,,
+Data from database: World Development Indicators,,,,,
+Last Updated: 07/20/2022,,,,,
