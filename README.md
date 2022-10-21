@@ -1,2 +1,3 @@
 # water-visualizations
-some water related visualizations for my scientific visualization exam
+Some water related visualizations for my scientific visualization exam.
+The html file provides a codeless presentation.
